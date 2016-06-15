@@ -1,0 +1,14 @@
+14:54:30.392 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @19306ms
+14:54:30.714 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.3.1.v20150714
+14:54:30.761 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@f42576a{/,null,AVAILABLE}
+14:54:30.854 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@27182c07{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+14:54:30.855 [main] INFO  org.eclipse.jetty.server.Server - Started @19781ms
+14:55:35.351 [qtp1658243833-22] INFO  io.pedestal.http - {:line 78, :msg "GET /gapp/"}
+14:55:35.494 [qtp1658243833-26] INFO  io.pedestal.http - {:line 78, :msg "GET /favicon.ico"}
+14:55:39.770 [qtp1658243833-23] INFO  io.pedestal.http - {:line 78, :msg "GET /"}
+14:55:39.893 [qtp1658243833-20] INFO  io.pedestal.http - {:line 78, :msg "GET /images/image1.jpg"}
+14:55:43.500 [qtp1658243833-16] INFO  io.pedestal.http - {:line 78, :msg "GET /register"}
+14:55:43.605 [qtp1658243833-18] INFO  io.pedestal.http - {:line 78, :msg "GET /js/client.js"}
+14:55:46.615 [qtp1658243833-26] INFO  io.pedestal.http - {:line 78, :msg "GET /"}
+14:55:47.446 [qtp1658243833-20] INFO  io.pedestal.http - {:line 78, :msg "GET /login"}
+14:55:57.564 [qtp1658243833-19] INFO  io.pedestal.http - {:line 78, :msg "GET /"}
